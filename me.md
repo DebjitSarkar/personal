@@ -22,6 +22,8 @@ EECS 301 - Probabilistic Methods in Engineering, EECS 230 - Electromagnetics, EE
 * Modeled real-time locating of devices through time difference of arrival (TDOA) in MATLAB for internal reference
 * Documented the Application Programming Interface (API) for use by Guardhat's partners in a 400+ page manual
 
+![alt text](http://cdn.iopscience.com/images/0957-0233/16/12/020/Full/mst201950fig01.jpg "")
+
 ## Projects
 **Cybersecurity Workshop**, Canton, MI (Nov. and Dec. 2017)
 * Led nine students to design and conduct an interactive workshop on social engineering, password cracking, and website phishing at Canton Public Library
@@ -32,12 +34,19 @@ EECS 301 - Probabilistic Methods in Engineering, EECS 230 - Electromagnetics, EE
 * Optimized the layout in AutoCAD while meeting requirements and staying under budget
 * Presented results at Design Day at MSU, a College of Engineering-wide showcase primarily for capstone projects
 
+<img src="https://i.imgur.com/TKdvZKG.png" width="400">
+
 **Finite Element Electric Field**, Lansing, MI (Nov. and Dec. 2016)
 
 * Created finite element models of simple conductors and insulators to approximate electric field using C++ and MATLAB
 
+<img src="https://i.imgur.com/I0GcIx1.png" width="400">
+
 ## Honors
 * High Achiever in the College of Engineering at Michigan State University - Recognized as the top student among the junior class of electrical engineering majors for the 2016-17 school year
+
+<img src="https://i.imgur.com/XLEivdM.png" width="400">
+
 * Programmable Controllers - Certificate of Achievement in Robotics/Automated Systems Technology at Oakland Community College
 
 ## Skills
