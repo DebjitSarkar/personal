@@ -34,6 +34,7 @@ EECS 301 - Probabilistic Methods in Engineering, EECS 230 - Electromagnetics, EE
 * Optimized the layout in AutoCAD while meeting requirements and staying under budget
 * Presented results at Design Day at MSU, a College of Engineering-wide showcase primarily for capstone projects
 
+<img src="https://i.imgur.com/i95dTAO.png" width="400">
 <img src="https://i.imgur.com/TKdvZKG.png" width="400">
 
 **Finite Element Electric Field**, Lansing, MI | _Nov. and Dec. 2016_
