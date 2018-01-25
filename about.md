@@ -41,6 +41,7 @@ EECS 301 - Probabilistic Methods in Engineering, EECS 230 - Electromagnetics, EE
 
 * Created finite element models of simple conductors and insulators to approximate electric field using C++ and MATLAB
 
+<img src="https://i.imgur.com/bC0nmZy.png" width="400">
 <img src="https://i.imgur.com/I0GcIx1.png" width="400">
 
 ## Honors
