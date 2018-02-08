@@ -45,6 +45,7 @@ EECS 301 - Probabilistic Methods in Engineering, EECS 230 - Electromagnetics, EE
 <img src="https://i.imgur.com/I0GcIx1.png" width="400">
 
 ## Honors
+* Dean's List at the University of Michigan - Fall 2017
 * High Achiever in the College of Engineering at Michigan State University - Recognized as the top student among the junior class of electrical engineering majors for the 2016-17 school year
 
 <img src="https://i.imgur.com/XLEivdM.png" width="400">
