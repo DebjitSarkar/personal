@@ -2,7 +2,7 @@
 ##### sarkard@umich.edu | (248)-805-3035 | 1929 Plymouth Rd. Apt. 2006 | Ann Arbor, MI 48105
 
 ## Education
-**University of Michigan**, Ann Arbor, MI | _May 2019_
+**University of Michigan**, Ann Arbor, MI | _Sept. 2017 to May 2019_
 
 Bachelor of Science in Engineering in Electrical Engineering, 3.78/4.0 GPA
 
