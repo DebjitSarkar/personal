@@ -1,10 +1,10 @@
 # Debjit Sarkar
-##### sarkard@umich.edu | (248)-805-3035 | 1929 Plymouth Rd. Apt. 2006 | Ann Arbor, MI 48105
+##### sarkard@umich.edu | 248-805-3035 | 1929 Plymouth Rd., Apt. 2006 | Ann Arbor, MI 48105
 
 ## Education
-**University of Michigan**, Ann Arbor, MI | _Sept. 2017 to May 2019_
+**University of Michigan**, Ann Arbor, MI | _Sept. 2017 to December 2019_
 
-Bachelor of Science in Engineering in Electrical Engineering, 3.89/4.0 GPA
+Bachelor of Science in Engineering in Electrical Engineering, 3.93/4.0 GPA
 
 **Michigan State University**, East Lansing, MI | _Sept. 2016 to May 2017_
 
@@ -43,7 +43,7 @@ EECS 330 - Antennas and Wireless Systems, EECS 312 - Digital Integrated Circuits
 <img src="https://i.imgur.com/I0GcIx1.png" width="400">
 
 ## Honors
-* Dean's List at the University of Michigan - Fall 2017, Winter 2018
+* Dean's List at the University of Michigan - Fall 2017, Winter 2018, Fall 2018
 * High Achiever in the College of Engineering at Michigan State University - Recognized as the top student among the junior class of electrical engineering majors for the 2016-17 school year
 
 <img src="https://i.imgur.com/XLEivdM.png" width="400">
@@ -51,6 +51,6 @@ EECS 330 - Antennas and Wireless Systems, EECS 312 - Digital Integrated Circuits
 * Programmable Controllers - Certificate of Achievement in Robotics/Automated Systems Technology at Oakland Community College
 
 ## Skills
-Experience in: MATLAB, C++, Advanced Design System (ADS), HFSS, Cadence, Java, LTSpice/PSice, VHDL, Siemens S7, RSLogix5000, AutoCAD, Autodesk Inventor
+Experience in: MATLAB, Advanced Design System (ADS), HFSS, Cadence, C++, Java, LTSpice/PSice, VHDL, Siemens S7, RSLogix5000, AutoCAD, Autodesk Inventor
 
 Exposure to: C Programming, Python, Paraview
